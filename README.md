@@ -1,1 +1,1 @@
-![csabisoos's GitHub stats](https://github-readme-stats.vercel.app/api?username=csabisoos&show_icons=true)
+![GitHub Card](https://githubcard.com/csabisoos.svg?d=f2L6xx1y)
