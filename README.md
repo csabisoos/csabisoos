@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square" alt="C#" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=flat-square" alt="Haskell" />
   <img src="https://img.shields.io/badge/Python%20(Sockets)-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python (Sockets)" />
-  <img src="https://img.shields.io/badge/Telekommunik%C3%A1ci%C3%B3s%20h%C3%A1l%C3%B3zatok-0A84FF?style=flat-square" alt="Telekommunikációs hálózatok" />
+  <img src="https://img.shields.io/badge/Telekommunik%C3%A1ci%C3%B3s%20h%C3%A1l%C3%B3zatok-0A84FF?style=flat-square" alt="Telecommunication networks" />
   <img src="https://img.shields.io/badge/SageMath-9C4BFF?style=flat-square" alt="SageMath" />
   <img src="https://img.shields.io/badge/Bash%2FTerminal-4EAA25?logo=gnubash&logoColor=white&style=flat-square" alt="Bash/Terminal" />
   <img src="https://img.shields.io/badge/AI-111111?logo=opencv&logoColor=white&style=flat-square" alt="AI" />
